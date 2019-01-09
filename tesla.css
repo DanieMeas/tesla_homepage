@@ -11,3 +11,18 @@ body {
 	float: left;
 	position: absolute;
 }
+
+.nav-button {
+	color: white;
+	text-decoration: none;
+	margin-left: 25px;
+}
+
+#nav-left {
+	float: left;
+	margin-left: 205px;
+}
+
+#nav-right {
+	margin-left: 805px;
+}
