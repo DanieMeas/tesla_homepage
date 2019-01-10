@@ -26,3 +26,24 @@ body {
 #nav-right {
 	margin-left: 805px;
 }
+
+#content {
+	margin-top: 25%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	padding: 10px;
+}
+
+#content #banner {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+}
+
+#content #marketing-content {
+	margin-top: 20px;
+	text-align: center;
+	color: white;
+}
