@@ -97,3 +97,8 @@ html {
 	margin-left: 25px;
 	font-size: .8em;
 }
+
+#flag {
+	width: 20px;
+	margin-bottom: 5px;
+}
