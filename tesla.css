@@ -77,10 +77,12 @@ html {
 #buttons a {
 	text-decoration: none;
 	font-size: .9em;
+
 }
 
 .button:hover {
 	border: 1px solid white;
+
 }
 
 #footer {
@@ -92,7 +94,7 @@ html {
 }
 
 .footer-link {
-	color: white;
+	color: red;
 	text-decoration: none;
 	margin-left: 25px;
 	font-size: .8em;
